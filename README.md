@@ -1,6 +1,8 @@
-# Deploy: https://graphiql-clone.netlify.app/
+# graphiql-app
 
-# Tech Stack:
+- Deploy: https://graphiql-clone.netlify.app/
+
+### Tech Stack:
 
 - React
 - MobX
