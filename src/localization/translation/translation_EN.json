@@ -120,27 +120,27 @@
       "team": [
         {
           "id": 1,
+          "name": "Sergey Fedorov",
+          "position": "Front-End Developer",
+          "nickName": "dazmond-ru",
+          "link": "https://github.com/Dazmond-ru",
+          "avatar": "https://avatars.githubusercontent.com/u/60709379?v=4"
+        },
+        {
+          "id": 2,
           "name": "Anastasia Bondarenko",
+          "position": "Front-End Developer",
           "nickName": "krevetka87",
-          "position": "Team Lead",
           "link": "https://github.com/krevetka87",
           "avatar": "https://avatars.githubusercontent.com/u/77237102?v=4"
         },
         {
-          "id": 2,
+          "id": 3,
           "name": "Dmitry Ivanov",
-          "nickName": "metalknock",
           "position": "Front-End Developer",
+          "nickName": "metalknock",
           "link": "https://github.com/MetalKnock",
           "avatar": "https://avatars.githubusercontent.com/u/102481723?v=4"
-        },
-        {
-          "id": 3,
-          "name": "Sergey Fedorov",
-          "nickName": "dazmond-ru",
-          "position": "Front-End Developer",
-          "link": "https://github.com/Dazmond-ru",
-          "avatar": "https://avatars.githubusercontent.com/u/60709379?v=4"
         }
       ]
     }
